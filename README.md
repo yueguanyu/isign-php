@@ -88,6 +88,15 @@ cd isign/
 pip install .
 ```
 
+7. .. use isign with docker
+```
+docker run --rm znly/isign -h
+```
+or
+```
+docker run --rm kitcast/isign -h
+```
+
 8. 后台地址：/admin
 
  管理：admin 密码123456
